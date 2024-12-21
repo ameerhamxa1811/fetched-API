@@ -101,7 +101,7 @@ class _ItemListScreenState extends State<ItemListScreen> {
              shape: RoundedRectangleBorder(
                borderRadius: BorderRadius.circular(20),
              ),
-             backgroundColor: Colors.black12,
+             backgroundColor: Colors.blue,
               onPressed: _navigateToConfirmationScreen,
                 child: Icon(Icons.add, color: Colors.white,),
            ),
